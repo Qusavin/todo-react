@@ -6,7 +6,8 @@
 		"node": true
 	},
 	"rules": {
-		"capitalized-comments": "off"
+		"capitalized-comments": "off",
+		"one-var": "off",
 	},
 	"extends": [
 		"react-app",
